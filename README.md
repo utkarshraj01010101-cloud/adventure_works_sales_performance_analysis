@@ -1,7 +1,11 @@
 # adventure_works_sales_performance_analysis
 An end-to-end Power BI data analytics pipeline analyzing $307.1M in cumulative global sales. Features interactive time-series tracking, data integrity auditing for historical truncation, and an operational risk assessment of product-wise portfolio concentration.
+### 🖥️ Dashboard Layout
+<img src="Screenshot 2026-06-03 013747.png" width="100%" />
 
 ---
+
+<img src="Screenshot 2026-06-03 013817.png" width="100%" />
 
 ## 📊 Executive Summary & Data Integrity Audit
 Before diving into core metrics, a critical data integrity finding must be established. The historical timeline in this dataset contains severe truncation anomalies:
