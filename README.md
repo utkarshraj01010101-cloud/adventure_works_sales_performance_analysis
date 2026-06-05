@@ -1,4 +1,4 @@
-# adventure_works_sales_performance_analysis
+# Adventure Works Global Executive Dashboard (Power BI)
 An end-to-end Power BI data analytics pipeline analyzing $307.1M in cumulative global sales. Features interactive time-series tracking, data integrity auditing for historical truncation, and an operational risk assessment of product-wise portfolio concentration.
 ### 🖥️ Dashboard Layout
 <img src="Screenshot 2026-06-03 013747.png" width="100%" />
